@@ -1,0 +1,5 @@
+My personal learning goals for this backend development are:
+
+1. Learn and perfecting my grasp on git commands.
+2. Understand how to use npm and integrate with github repositaries.
+3. Learn installing dependencies and files and use latest or specific version for the website requirements

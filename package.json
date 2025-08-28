@@ -1,0 +1,16 @@
+{
+  "name": "medtechlab_submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "system_test.js",
+  "scripts": {
+    "start": "node hello.js",
+    "dev": "nodemon hello.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
